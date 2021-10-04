@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Alina/CLionProjects/lab0b/wordCounter.cpp
+wordCounter.h
+/cygdrive/c/Users/Alina/CLionProjects/lab0b/wordCounter.h
+fstream
+-
+list
+-
+map
+-
+
+/cygdrive/c/Users/Alina/CLionProjects/lab0b/wordCounter.h
+map
+-
+string
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/lab0b.dir/main.cpp.o CMakeFiles/lab0b.dir/wordCounter.cpp.o -o lab0b.exe -Wl,--out-implib,liblab0b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

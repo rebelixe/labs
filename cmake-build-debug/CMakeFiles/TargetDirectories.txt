@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Alina/CLionProjects/lab0b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Alina/CLionProjects/lab0b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Alina/CLionProjects/lab0b/cmake-build-debug/CMakeFiles/lab0b.dir
